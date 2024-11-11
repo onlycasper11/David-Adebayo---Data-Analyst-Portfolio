@@ -2,7 +2,7 @@
 ## About
 ### Hi, I'm David Adebayo 👋
 
-Hi, I’m David Adebayo – a data analyst with a strong foundation in public health and a focus on using data to drive positive change. My journey into health informatics started with a bachelor’s degree in Public Health, where I developed a keen interest in how data can transform decision-making and improve health outcomes. Working with JSI on the MRITE project as a Monitoring and Evaluation Associate deepened my hands-on experience with data analytics in public health settings and strengthened my commitment to using data to make a measurable impact.
+I’m a data analyst with a strong foundation in public health and a focus on using data to drive positive change. My journey into health informatics started with a bachelor’s degree in Public Health, where I developed a keen interest in how data can transform decision-making and improve health outcomes. Working with JSI on the MRITE project as a Monitoring and Evaluation Associate deepened my hands-on experience with data analytics in public health settings and strengthened my commitment to using data to make a measurable impact.
 
 Currently, I’m expanding my expertise through a master’s program in health informatics, diving deeper into the technical aspects of data management, statistical analysis, and visualization. I enjoy bringing stories out of numbers, creating dashboards that simplify complex information, and sharing insights that support impactful health initiatives. From coding in Python and SQL to crafting visual narratives in Power BI, I’m driven by a desire to make data both accessible and actionable.
 
