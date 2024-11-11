@@ -8,7 +8,8 @@ Currently, I’m expanding my expertise through a master’s program in health i
 
 Outside of work, I’m a lifelong Manchester United fan (even through the tough seasons!) and love a good challenge—whether it's exploring a new data tool, brainstorming with friends, or solving open-ended analytics problems. I believe that learning is a journey, and I’m always excited to connect with others who are passionate about public health, data, and making a difference.
 
-My CV in [pdf](
+[View my CV](./David_Adebayo_CV.pdf)
+
 
 ### 🛠️ Skills and Tools:
 - **Languages**: Python, R, SQL, Microsoft Excel/Google Sheets
